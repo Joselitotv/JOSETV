@@ -67,6 +67,8 @@ http://181.78.79.131:8000/play/a0p8
 http://181.78.79.131:8000/play/a0n8
 #EXTINF:-1 group-title="-",Disney Jr.
 http://181.78.79.131:8000/play/a0p7
+#EXTINF:-1,ESPN HD
+http://190.61.42.218:9000/play/a05t
 #EXTINF:-1 group-title="-",ESPN
 http://181.78.79.131:8000/play/a0s7
 #EXTINF:-1 group-title="-",ESPN 2 HD
