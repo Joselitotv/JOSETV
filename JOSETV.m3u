@@ -143,7 +143,7 @@ http://181.225.73.159:8000/play/a04a/index.m3u8
 http://181.225.73.159:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="-" tvg-id="ViaX",ViaX
 http://181.225.73.159:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="-",WIN MAS
+#EXTINF:-1 group-title="-",z Ganar+
 http://181.225.73.159:8000/play/a0ae
 #EXTINF:-1 group-title="-" tvg-id="Warner",Warner
 http://181.225.73.159:8000/play/a01h/index.m3u8
