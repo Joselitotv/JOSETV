@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",jose+tv
 http://181.225.73.159:8000/play/a0ae
-#EXTM3U
 #EXTINF:-1 group-title="-" tvg-id="AE Mundo",AE Mundo
 http://181.225.73.159:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="-" tvg-id="AXN",AXN
@@ -148,6 +147,8 @@ http://181.225.73.159:8000/play/a026/index.m3u8
 http://181.225.73.159:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="-",Win+
 http://181.225.73.159:8000/play/a0ae
+#EXTINF:-1,WIN ANTENA CLARO
+http://45.172.218.130:8000/play/a17h
 #EXTINF:-1 group-title="-" tvg-id="Warner",Warner
 http://181.225.73.159:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="-",Win
